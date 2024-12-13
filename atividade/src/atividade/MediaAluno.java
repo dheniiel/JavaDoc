@@ -1,4 +1,4 @@
-package aluno;
+package atividade;
 /**
  *
  * @author Dheniel Rodrigues Luis
